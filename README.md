@@ -1,6 +1,6 @@
 # WebShell 
 
-This is a simple bind shell backdoor written in PHP, you can change the value of the $PASSWD variable in the php file and put whatever you wan't, but remember : if you loose the password, you loose the shell.
+This is a simple backdoor protected with a password written in PHP. You can change the value of the $PASSWD variable in the PhpBindShell.php file and put whatever you wan't, but remember : if you loose the password, you loose the shell.
  
  
 # Download :
