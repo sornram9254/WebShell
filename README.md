@@ -18,5 +18,5 @@ git clone https://github.com/NullBrunk/PhpBindShell.git && mv PhpBindShell/PhpBi
 
 
 
-https://user-images.githubusercontent.com/106782577/177163046-c375e670-50ea-44c4-a2a4-f98f91b2c1d6.mp4
+https://user-images.githubusercontent.com/106782577/177163113-b9b04ccb-5326-40a2-908d-0669e68ba571.mp4
 
