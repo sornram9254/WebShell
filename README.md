@@ -2,7 +2,7 @@
 
 This is a simple backdoor protected with a password written in PHP. You can change the value of the $PASSWD variable in the PhpBindShell.php file and put whatever you wan't, but remember : if you loose the password, you loose the shell.
 
-**Default Password :** ``S3cr3tp4ssw0rd``
+**Default Password :** ``P@ssw0rd``
  
  
 # Download :
